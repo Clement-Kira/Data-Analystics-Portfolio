@@ -1,5 +1,5 @@
 # Data-Analystics-Portfolio
-# 🚲 Bike Sales Analysis Dashboard
+# 🚲 Bike Sales Analysis Dashboard, 🌍 Global Tech Survey Analysis – Power BI Dashboard
 
 ## 📊 Project Overview
 
@@ -8,6 +8,13 @@ This project focuses on cleaning, transforming, and analysing bike sales and cus
 The goal was to take a raw dataset, clean and prepare the data for analysis, and then build an interactive dashboard that provides insights into customer demographics, income, purchasing behaviour, and other factors that may influence bike purchases.
 
 This project was completed as part of my ongoing development in **Data Analytics**, with a focus on practical Excel skills, data cleaning, data analysis, PivotTables, PivotCharts, and dashboard development.
+
+
+This project is a **Power BI data analytics and visualisation project** based on a global survey of people interested in or working in the technology industry.
+
+The dataset contains responses from people across different locations and explores topics such as their favourite programming languages, gender, geographical location, and their experiences entering the technology industry.
+
+The goal of the project was to clean, transform, analyse, and visualise the survey data to identify patterns in programming preferences and experiences within the tech industry.
 
 ---
 
@@ -36,6 +43,9 @@ The main objectives of this project were to:
 - Data Analysis
 - Data Visualisation
 - Dashboard Development
+- Power Query
+- DAX
+- Data Modelling
 
 ---
 
